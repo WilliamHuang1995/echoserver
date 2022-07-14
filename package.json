@@ -1,0 +1,23 @@
+{
+  "name": "smsgate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamHuang1995/echoserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamHuang1995/echoserver/issues"
+  },
+  "homepage": "https://github.com/WilliamHuang1995/echoserver#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
